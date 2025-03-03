@@ -5,6 +5,10 @@ HIRRD is a modern job portal where recruiters can post job listings, and candida
 ## 🚀 Live Demo  
 [Click here to view the project](https://hirrd-nine-nu.vercel.app/)  
 
+
+![image](https://github.com/user-attachments/assets/4dd78eb7-4cca-49b7-98b4-b9ebc7fc084f)
+
+
 ## 📌 Features  
 - **User Authentication** (Login & Sign Up) using Clerk  
 - **Job Posting** for recruiters  
@@ -56,7 +60,7 @@ VITE_CLERK_PUBLISHABLE_KEY=
 npm run dev
 
 
-![image](https://github.com/user-attachments/assets/10b0e587-2659-445a-b0fb-97c5f66c270f)
+
 
 
 
