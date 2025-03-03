@@ -48,12 +48,12 @@ Configure Supabase Auth
 4️⃣ Configure Environment Variables
 Create a .env file and add:
 
+VITE_SUPABASE_URL=your_supabase_url
+VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+VITE_CLERK_PUBLISHABLE_KEY=your_clerk_secret_key
 
-```
-VITE_SUPABASE_URL=
-VITE_SUPABASE_ANON_KEY=
-VITE_CLERK_PUBLISHABLE_KEY=
-```
+
+
 
 5️⃣ Start the Development Server
 
